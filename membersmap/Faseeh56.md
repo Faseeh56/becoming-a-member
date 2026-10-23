@@ -34,6 +34,6 @@ I am a BSCS student pursuing a career in AI engineering. I have hands-on experie
 ## Additional Information
 
 - **Current Learning Track:** Actively running a technical learning series focused on breaking down complex AI and software engineering concepts for absolute beginners to maintain consistent growth.
-- **Development Stack:** Python (Pandas, NumPy, Scikit-learn), Flutter (Mobile Application Development), and Git/GitHub workflows.
+- **Development Stack:** Python (Pandas, NumPy, Scikit-learn), Git/GitHub workflows.
 - **Core Environment:** Developing within containerized and virtualized local environments using VS Code.
 - **Community Goal:** Looking to collaborate on projects involving **AISecOps**, containerized model deployment (Docker/Kubernetes), and secure CI/CD workflows for machine learning pipelines.
